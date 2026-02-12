@@ -10,6 +10,4 @@
 - Listening to music
 - Baking
 
-The background color is '#c8d5e7'
-
 ![accurate represent of me listening to music nearly every hour of the day](https://i.pinimg.com/1200x/7e/3c/be/7e3cbebe9e4becebcecc73fda3fd18ea.jpg)
