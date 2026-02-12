@@ -1,4 +1,4 @@
-# About Me(Camryn Martine)
+# About Me(Camryn Martinez)
 ## Fun Facts
 - I am a middle child
 - I am 20
